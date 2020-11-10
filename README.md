@@ -4,7 +4,7 @@
 
 # References
 
-Our manuscipt titled with "Generative Incomplete Multi-View Prognosis Predictor for Breast Cancer: GIMP" has been submitted to IEEE JBHI.
+Our manuscipt titled with "Generative Incomplete Multi-View Prognosis Predictor for Breast Cancer: GIMP" has been submitted to IEEE TCBB.
 
 # Requirements
 [python 3.6](https://www.python.org/downloads/)
